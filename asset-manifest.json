@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monsters-Paraworld/static/css/main.c70f4367.chunk.css",
+    "main.js": "/Monsters-Paraworld/static/js/main.cc0361af.chunk.js",
+    "main.js.map": "/Monsters-Paraworld/static/js/main.cc0361af.chunk.js.map",
+    "runtime-main.js": "/Monsters-Paraworld/static/js/runtime-main.c73b8b56.js",
+    "runtime-main.js.map": "/Monsters-Paraworld/static/js/runtime-main.c73b8b56.js.map",
+    "static/js/2.dbdc1f2b.chunk.js": "/Monsters-Paraworld/static/js/2.dbdc1f2b.chunk.js",
+    "static/js/2.dbdc1f2b.chunk.js.map": "/Monsters-Paraworld/static/js/2.dbdc1f2b.chunk.js.map",
+    "static/js/3.5302c058.chunk.js": "/Monsters-Paraworld/static/js/3.5302c058.chunk.js",
+    "static/js/3.5302c058.chunk.js.map": "/Monsters-Paraworld/static/js/3.5302c058.chunk.js.map",
+    "index.html": "/Monsters-Paraworld/index.html",
+    "static/css/main.c70f4367.chunk.css.map": "/Monsters-Paraworld/static/css/main.c70f4367.chunk.css.map",
+    "static/js/2.dbdc1f2b.chunk.js.LICENSE.txt": "/Monsters-Paraworld/static/js/2.dbdc1f2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c73b8b56.js",
+    "static/js/2.dbdc1f2b.chunk.js",
+    "static/css/main.c70f4367.chunk.css",
+    "static/js/main.cc0361af.chunk.js"
+  ]
+}
