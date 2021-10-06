@@ -1,0 +1,16 @@
+.card{
+    width: 85vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin: 0 auto;
+  grid-gap: 20px;
+  box-sizing: border-box;
+}
+
+@media (max-width:580px){
+  .card{
+    width: 80vw;
+    grid-template-columns: 1fr ;
+    grid-gap: 10px;
+  }
+}

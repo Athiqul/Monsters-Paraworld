@@ -1,0 +1,11 @@
+.search{
+    border: none;
+    padding: 10px;
+    margin-bottom: 30px;
+    width: 180px;
+    line-height: 30px;
+    outline: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Bigelow Rules',cursive;
+}
